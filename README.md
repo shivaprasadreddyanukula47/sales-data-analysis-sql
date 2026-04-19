@@ -1,2 +1,5 @@
-# sales-data-analysis-sql
-Analyzed sales data using SQL and Excel by performing data cleaning, querying, and generating key business insights such as sales trends and top-performing regions.
+# Sales-Data-Analysis (SQL & Excel)
+
+## Project Objective
+
+The objective of this project is to clean and analyze sales data using Excel and SQL to extract meaningful business insights. It focuses on identifying sales patterns, top-performing regions, and product performance. The analysis helps businesses make data-driven decisions and improve operational efficiency.
