@@ -6,3 +6,26 @@ The objective of this project is to clean and analyze sales data using Excel and
 
 ## Data Sets
 <a href = "https://github.com/shivaprasadreddyanukula47/sales-data-analysis-sql.git" >Dataset</a>
+## 📂 Dataset Overview
+
+### 🧾 Sales Data
+
+This table contains transactional sales details such as order ID, product, region, quantity, price, and total sales.
+
+![Sales Data](sales_data.png)
+
+---
+
+### 👤 Customer Data
+
+This table includes customer information like customer name, city, and customer ID.
+
+![Customer Data](customer_data.png)
+
+---
+
+### 📦 Product Data
+
+This table contains product details with product names and product IDs.
+
+![Product Data](product_data.png)
