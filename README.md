@@ -38,5 +38,10 @@ This table contains product details with product names and product IDs.
 <img width="1079" height="669" alt="Screenshot 2026-04-10 100532" src="https://github.com/user-attachments/assets/2b4b8d27-4c46-4d12-9663-6bb0912847c3" />
 
 
+## Queries, Dataset & Insights
+<img width="1382" height="675" alt="Screenshot 2026-04-10 091344" src="https://github.com/user-attachments/assets/34a13d7a-cbe5-43c2-826e-ff763ec5892e" />
+
+
+
 
 
