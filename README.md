@@ -19,7 +19,9 @@ This table contains transactional sales details such as order ID, product, regio
 
 This table includes customer information like customer name, city, and customer ID.
 
-![Customer Data](customer_data.png)
+<a href =<a href ="https://github.com/shivaprasadreddyanukula47/sales-data-analysis-sql/blob/main/Screenshot%202026-04-08%20191517.png">link</a>
+>link</a>
+
 
 ---
 
