@@ -11,7 +11,7 @@ The objective of this project is to clean and analyze sales data using Excel and
 ### 🧾 Sales Data
 
 This table contains transactional sales details such as order ID, product, region, quantity, price, and total sales.
-<a href ="https://github.com/shivaprasadreddyanukula47/C:\Users\shiva\OneDrive\Pictures\Screenshots\Screenshot 2026-04-08 191517.png">link</a>
+<a href ="https://github.com/shivaprasadreddyanukula47/sales-data-analysis-sql/blob/main/Screenshot%202026-04-08%20191517.png">link</a>
 
 ---
 
