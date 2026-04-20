@@ -40,6 +40,10 @@ This table contains product details with product names and product IDs.
 
 ## SQL Queries & Insights & Results
 <a href = "https://github.com/shivaprasadreddyanukula47/sales-data-analysis-sql/blob/main/sales_data%20sql%20queries%20projct.sql">Queries Set</a>
+## Final Summary:
+
+Detail-oriented Data Analyst fresher with strong knowledge of SQL for data extraction, transformation, and analysis. Experienced in writing complex queries, cleaning datasets, and generating meaningful insights to support business decisions. Completed hands-on projects using real-world data to identify trends and solve problems. Quick learner with a logical mindset, eager to contribute analytical skills in a professional environment.
+
 
 
 
