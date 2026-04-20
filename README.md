@@ -44,6 +44,8 @@ This table contains product details with product names and product IDs.
 
 Detail-oriented Data Analyst fresher with strong knowledge of SQL for data extraction, transformation, and analysis. Experienced in writing complex queries, cleaning datasets, and generating meaningful insights to support business decisions. Completed hands-on projects using real-world data to identify trends and solve problems. Quick learner with a logical mindset, eager to contribute analytical skills in a professional environment.
 
+## 👨‍💻 Developed By
+### **Shiva Reddy Anukula**
 
 
 
