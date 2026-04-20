@@ -39,8 +39,7 @@ This table contains product details with product names and product IDs.
 
 
 ## Queries, Dataset & Insights
-<img width="1382" height="675" alt="Screenshot 2026-04-10 091344" src="https://github.com/user-attachments/assets/34a13d7a-cbe5-43c2-826e-ff763ec5892e" />
-
+<a href = "https://github.com/shivaprasadreddyanukula47/sales-data-analysis-sql/blob/main/sales_data%20sql%20queries%20projct.sql">Queries Set</a>
 
 
 
