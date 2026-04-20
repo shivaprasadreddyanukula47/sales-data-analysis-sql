@@ -28,5 +28,5 @@ This table includes customer information like customer name, city, and customer 
 ### 📦 Product Data
 
 This table contains product details with product names and product IDs.
+<a href ="https://github.com/shivaprasadreddyanukula47/sales-data-analysis-sql/blob/main/Screenshot%202026-04-08%20191553.png">link</a>
 
-![Product Data](product_data.png)
